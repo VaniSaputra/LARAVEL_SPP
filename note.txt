@@ -1,0 +1,32 @@
+menampilkan data dari tabel lain
+menu active master tidak bisa
+
+
+Fitur Opsional
+	- Filter Tahun Ajaran @ Manage Kelas
+
+bug
+	=list=
+	- filter status dibuat sehingga tanpa filter tahun dulu
+
+	=pembayaran=
+	- pembayarannya apa saja (Spp,gedung?)
+	- metode pembayaran spp
+	- jumlah setiap pembayaran
+	- format bayar ,00
+	- cetak spp header
+
+	=Rekap=
+	- tanggal rekap dibuat bahasa indonesia
+	- cetak spp header
+
+	= siswa=
+	- bagian import kasih gambar tabel excel buat keterangan
+
+	=kelas=
+	- kelas bisa sama dengan jumlah yang berbeda
+	- kasih filter
+	- perlu cetak tidak??
+
+
+		
